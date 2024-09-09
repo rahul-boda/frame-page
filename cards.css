@@ -1,0 +1,18 @@
+
+.list{
+    border: 2px solid black;
+    width: 200px;
+    height: 300px;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-shadow:5px 5px 3px rgb(180, 172, 172)
+}
+.parent{display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+   
